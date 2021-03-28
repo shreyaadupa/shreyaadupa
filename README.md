@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyaadupa
-- 👀 I’m interested in webdevelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning java, javascript, angularjs
 - 💞️ I’m looking to collaborate on Web development opensource projects
 - 📫 How to reach me 
