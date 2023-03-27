@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shreya Adupa<br>👀 I’m interested in front-end web development<br>🌱 I’m currently learning Java, JS, Angular, and React!<br>💞️ I’m looking to collaborate on Web development Open Source projects<br>📫 How to reach me: email: shreyaadupa@gmail.com
+👋 Hi, I’m Shreya Adupa<br>👀 I’m interested in front-end web development<br>🌱 I’m currently learning Java, JS/TS, Angular, and React!<br>💞️ I’m looking to collaborate on Web development Open Source projects<br>📫 How to reach me: email: shreyaadupa@gmail.com
 
 
 ## 🌐 Socials:
