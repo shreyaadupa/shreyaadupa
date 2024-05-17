@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Shreya Adupa<br>👀 I’m interested in front-end web development<br>🌱 I’m currently learning Java, JS, Angular, and React!<br>💞️ I’m looking to collaborate on Web development Open Source projects<br>📫 How to reach me: email: shreyaadupa@gmail.com
 
+VIEW MY STACKBLITZ FOR SOME LIVE DEMOS OF MY PROJECTS!!! - https://stackblitz.com/@shreyaadupa 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreya.adupa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-adupa) 
